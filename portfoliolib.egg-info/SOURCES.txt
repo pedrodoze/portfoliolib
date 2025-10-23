@@ -1,0 +1,11 @@
+setup.py
+portfoliolib/__init__.py
+portfoliolib/agent.py
+portfoliolib/backtester.py
+portfoliolib/manager.py
+portfoliolib/optimizers.py
+portfoliolib.egg-info/PKG-INFO
+portfoliolib.egg-info/SOURCES.txt
+portfoliolib.egg-info/dependency_links.txt
+portfoliolib.egg-info/requires.txt
+portfoliolib.egg-info/top_level.txt
