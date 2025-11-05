@@ -179,7 +179,7 @@ class PortfolioManager:
             equity_series: Série de equity do portfólio
             
         Returns:
-            VaR 5% em valor absoluto ($)
+            VaR 5% em porcentagem
         """
         if len(equity_series) < 2:
             return 0.0
